@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PersonalWebsite
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Portfolio_Website
+Personal Portfolio Website
+>>>>>>> 6e80cbb74b7097b8b494d9ed654966e5e166fb2d
